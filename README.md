@@ -23,6 +23,5 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>&nbsp 
 </p>
 
-<div align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shotarai&layout=compact&hide=html&theme=tokyonight)
-</div>
+
