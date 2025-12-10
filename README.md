@@ -1,7 +1,5 @@
-<h1 align="center">Welcome to Shotarai's GitHub </h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6AAB73&center=true&vCenter=true&width=500&lines=Graduate+Student+%7C+HCI+%26+AI;Data+Science+%26+Bayesian+Modeling;Mobile+App+Developer;React+Native+%7C+Next.js+%7C+Python" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=333333&center=true&vCenter=true&width=500&lines=Welcome+to+Shotarai's+GitHub;HCI+%26+AI+Researcher;Data+Science+%26+Bayesian+Modeling;Mobile/WEB+App+Developer" />
 </p>
 
 ---
