@@ -6,8 +6,6 @@
 
 ---
 
-<h2 align="center">Tech Stack</h2>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
@@ -18,9 +16,6 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </p>
 
----
-
-<h2 align="center">GitHub Activity</h2>
 
 <a href="https://github.com/tocoteron">
   <img align="left" height="170px" src="https://github-readme-stats-self-theta-45.vercel.app/api?username=shotarai&count_private=true&show_icons=true&theme=dracula" />
